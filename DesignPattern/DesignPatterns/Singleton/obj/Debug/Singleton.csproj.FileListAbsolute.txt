@@ -1,0 +1,7 @@
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton_pattern.exe
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\bin\Debug\Singleton_pattern.pdb
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton_pattern.exe
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Singleton\obj\Debug\Singleton_pattern.pdb
