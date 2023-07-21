@@ -1,0 +1,7 @@
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\bin\Debug\Factory.exe
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\bin\Debug\Factory.pdb
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\obj\Debug\Factory.csproj.AssemblyReference.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\obj\Debug\Factory.csproj.SuggestedBindingRedirects.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\obj\Debug\Factory.exe
+D:\GIT\prywatne\DesignPatterns\DesignPattern\DesignPatterns\Factory\obj\Debug\Factory.pdb
